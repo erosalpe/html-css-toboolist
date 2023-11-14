@@ -63,6 +63,10 @@ main > div.interaction-bar :last-child, main > div.interaction-bar :first-child{
     border-width: 1px;
 }
 
+div > h2::before{
+    content: "\01F783";
+}
+
 .tasks{
     padding: 30px;
 }
