@@ -9,13 +9,22 @@ body{
     background-color: #F6F8F9;
 }
 
+header{
+    height: 100;
+}
+
 figure{
     padding: 10px;
 }
 
-h1{
-    display: inline-block;
+figure > img{
+    vertical-align: middle;
+}
+
+figure > span{
+    vertical-align: middle;
     font-size: 50px;
+    font-weight: bold;
 }
 
 main{
