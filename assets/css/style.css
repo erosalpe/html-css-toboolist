@@ -102,7 +102,7 @@ li.editorial::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 li.q1::after{
@@ -112,7 +112,7 @@ li.q1::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 li.recruiting::after{
@@ -122,7 +122,7 @@ li.recruiting::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 li.mobile::after{
@@ -132,7 +132,7 @@ li.mobile::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 li.website::after{
@@ -142,7 +142,7 @@ li.website::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 li.sales::after{
@@ -152,7 +152,7 @@ li.sales::after{
     border-radius: 50px;
     padding: 10px;
     margin-left: 10px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 
