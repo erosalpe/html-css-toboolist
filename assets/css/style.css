@@ -58,12 +58,21 @@ main > div.interaction-bar :last-child{
     padding: 30px;
 }
 
+h2{
+    color: #42464F;
+}
+
 ul{
-    padding-left: 30px;
     padding-top: 10px;
     list-style: none;
 }
 
+li{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 750;
+    color: #585B63;
+}
 li.done::before{
     content: "\2713";
     color: #75C7B4;
@@ -72,16 +81,28 @@ li.done::before{
     padding:2px;
     font-size: 11px;
     font-weight: bold;
+    margin-right: 10px;
 }
 
 li.notdone::before{
-    content: "\2713";
-    color: #75C7B4;
-    border: 2px solid #75C7B4;
+    content: "\2715";
+    color: #F1928E;
+    border: 2px solid #F1928E;
     border-radius: 50%;
     padding:2px;
     font-size: 11px;
     font-weight: bold;
+    margin-right: 10px;
+}
+
+li.editorial::after{
+    content: "Editorial";
+    background-color: #45ABEA;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
 }
 
 
