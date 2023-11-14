@@ -105,5 +105,55 @@ li.editorial::after{
     font-size: 15px;
 }
 
+li.q1::after{
+    content: "Q1 Goals";
+    background-color: #9C72E4;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+li.recruiting::after{
+    content: "Recruiting";
+    background-color: #64C0A9;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+li.mobile::after{
+    content: "Mobile";
+    background-color: #F29E33;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+li.website::after{
+    content: "Website";
+    background-color: #D863A1;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+li.sales::after{
+    content: "Sales";
+    background-color: #B0C925;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
 
 
